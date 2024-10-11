@@ -1,3 +1,8 @@
+# From original Repositories
+
+- [Frontend Repository](https://github.com/alexela8882/todo-vue3-lara11.git)
+- [Backend Repository](https://github.com/alexela8882/todo-vue3-lara11-be.git)
+
 # Project Setup Instructions
 
 This document outlines the steps to set up and run both the backend (Laravel) and frontend parts of the project.
